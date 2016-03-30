@@ -355,6 +355,7 @@ class epSocialWidget extends WP_Widget {
 			'tumblr'		=> array( 'link' => '' ),
 			'google'		=> array( 'link' => '' ),
 			'instagram'		=> array( 'link' => '' ),
+			'untappd'		=> array( 'link' => '' ),
 			'github'		=> array( 'link' => '' )
 		);
 
